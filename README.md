@@ -39,7 +39,7 @@ public partial class MainPage : ContentPage
 ```
 
 ### Output
-[Add the image]
+<img width="1418" height="685" alt="rte" src="https://github.com/user-attachments/assets/10b43279-9686-4b16-a5c9-45869357923a" />
 
 ## Troubleshooting
 
